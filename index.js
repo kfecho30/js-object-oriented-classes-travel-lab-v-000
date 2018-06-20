@@ -30,7 +30,7 @@ class Route {
     if(peak){
       return this.blocksTravelled() / 2
     } else {
-      return this.blocksTavelled() / 3
+      return this.blocksTravelled() / 3
     }
   }
 }
